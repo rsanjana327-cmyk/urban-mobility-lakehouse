@@ -1,0 +1,31 @@
+{
+  "ingested_files": [
+    {
+      "filename": "yellow_tripdata_2023-01.parquet",
+      "s3_key": "raw/year=2023/month=01/yellow_tripdata_2023-01.parquet",
+      "checksum": "d2de0ffc4f9112b91c5fe3a407c07435",
+      "file_size_mb": 45.46,
+      "ingested_at": "2026-03-10T15:47:26.856288",
+      "status": "success",
+      "source": "nyc_tlc_yellow_taxi"
+    },
+    {
+      "filename": "yellow_tripdata_2023-02.parquet",
+      "s3_key": "raw/year=2023/month=02/yellow_tripdata_2023-02.parquet",
+      "checksum": "f01f2456ef459b33477ee73b4c2ced24",
+      "file_size_mb": 45.54,
+      "ingested_at": "2026-03-10T15:47:28.661376",
+      "status": "success",
+      "source": "nyc_tlc_yellow_taxi"
+    },
+    {
+      "filename": "yellow_tripdata_2023-03.parquet",
+      "s3_key": "raw/year=2023/month=03/yellow_tripdata_2023-03.parquet",
+      "checksum": "d40e6fe2f87ef06e2d94c23ca73dc491",
+      "file_size_mb": 53.53,
+      "ingested_at": "2026-03-10T15:47:30.154553",
+      "status": "success",
+      "source": "nyc_tlc_yellow_taxi"
+    }
+  ]
+}
